@@ -1,0 +1,1 @@
+export const carro = (state) => state.carro

@@ -1,0 +1,1 @@
+export const endereco = (state) => state.endereco

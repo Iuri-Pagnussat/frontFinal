@@ -1,0 +1,1 @@
+export const GET_TABELAPRECO = "GET_TABELAPRECO"

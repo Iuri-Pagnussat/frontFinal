@@ -1,0 +1,1 @@
+export const clientes = (state) => state.clientes

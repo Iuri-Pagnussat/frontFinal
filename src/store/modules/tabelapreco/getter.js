@@ -1,0 +1,1 @@
+export const tabelapreco = (state) => state.tabelapreco
